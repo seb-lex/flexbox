@@ -38,6 +38,7 @@ a {
   flex-wrap:wrap;
 }
 
+/* flex items */
 .item {
   flex: 1 1 calc(33.33% - 20px);
 }
